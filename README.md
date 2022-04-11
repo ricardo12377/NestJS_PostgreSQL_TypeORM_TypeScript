@@ -24,7 +24,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Web Api, with Create, Put, Delete and Get methods. Created with NestJS, TypeORM, PostgreSQL, TypeScript and docker.
+
+In this repository have a migrations and docker-compose.yml file, this file will configure your container for run this app, just run docker-compose up -d.
 
 ## Installation
 
